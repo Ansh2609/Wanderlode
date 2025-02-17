@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/Wanderlode/static/js/main.eda72384.js",
+    "index.html": "/Wanderlode/index.html",
+    "main.eda72384.js.map": "/Wanderlode/static/js/main.eda72384.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.eda72384.js"
+  ]
+}
